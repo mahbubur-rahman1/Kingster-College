@@ -1,0 +1,86 @@
+[
+    {
+      "id": "1",
+      "collegName": "Kingster College",
+      "courseName": "Iconomics",
+      "rating": 4.6,
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTquBFZ0I5zm8k4EyymsVqUZwHAyOKAAnPcSmpRU2GqsNiau591o2zE8WETPFg6xY_4Sn4&usqp=CAU"
+    },
+    {
+      "id": "2",
+      "collegName": "Kingster College",
+      "courseName": "Banla",
+      "rating": 5,
+      "picture": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr77COSe3O4uHEv93BwcFSP4cC5E4i4B6Xt0tJcWWjsZhnSfuBL_BqnJtiXPFUZ6Nibms7nPM9iszVCjR4GQdWtWQAG14a_z3JUs1UvLyYdxMN1rqsqTXr8_EQr6rwsR7Cv9ZE2xIgunOsVWAy63faQc_0z0F7aNL8GLE2raey-pKfZJ9IyVbH1C34eg/w400-h300/notre-dame-univ2.jpg"
+    },
+    {
+      "id": "3",
+      "collegName": "Kingster College",
+      "courseName": "English",
+      "rating": 5,
+      "picture": "https://c8.alamy.com/comp/2JA56BR/may-26-2022-south-bend-indiana-united-states-of-america-the-golden-dome-atop-the-main-building-at-the-university-of-notre-dame-credit-image-walter-g-arce-srzuma-press-wire-2JA56BR.jpg"
+    },
+    {
+      "id": "4",
+      "collegName": "Kingster College",
+      "courseName": "Political Since",
+      "rating": 4.30,
+      "picture": "https://collegeinfogeek.com/wp-content/uploads/2011/03/catt-SD-Dirk.jpg"
+    },
+    {
+      "id": "5",
+      "collegName": "Kingster College",
+      "courseName": "Islamic",
+      "rating": 5,
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIYr7iyAsUx78cDP5q6tUCiohbtUAknQOOOg&usqp=CAU"
+    },
+    {
+      "id": 6,
+      "collegName": "Kingster College",
+      "courseName": "Banking",
+      "rating": 4,
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzsE9t-Ae3MinEeciYYDQEse_PAi0DGvYMZ5kyM3GRABLV7Ad91Vbo0bnCK7Kda8Vpgqk&usqp=CAU"
+    },
+    {
+      "id": 7,
+      "collegName": "Kingster College",
+      "courseName": "Math",
+      "rating": "4.50",
+      "picture": "https://www.usnews.com/dims4/USNEWS/41633ac/17177859217/resize/800x540%3E/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2F86%2F7fb7902ee86d1acfacec05a30c04d6%2Fcollege-photo_199.jpg"
+    },
+    {
+      "id": 8,
+      "collegName": "Kingster College",
+      "courseName": "ICT",
+      "rating": 5,
+      "picture": "https://www.usnews.com/dims4/USNEWS/e37f45e/17177859217/resize/800x540%3E/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2F6e%2Fd8a881f19b211928f27b07fa3171de%2Fcollege-photo_16949.jpg"
+    },
+    {
+      "id": 9,
+      "collegName": "Kingster College",
+      "courseName": "Pygiecs",
+      "rating": 4,
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq4LLRfNqvuOwq8ZPhgHsBXvDL5QjYEPSpyQ&usqp=CAU"
+    },
+    {
+      "id": 10,
+      "collegName": "Kingster College",
+      "courseName": "Cameastry",
+      "rating": 4.70,
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGWke43jSLlJI8xApauTcV6KQ2CkkBotEHI7C2tYDft5UxeAqEueeTUq5uOs37AGJztKE&usqp=CAU"
+    },
+    {
+      "id": 11,
+      "collegName": "Kingster College",
+      "courseName": "Bywlogics",
+      "rating": 4,
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2BEVsGNxBOjo_Z-_EDxkb5--A1hBAHQaht8L06OU0_IJtsaqxYvDuxpWjCFyWcXbWKYA&usqp=CAU"
+    },
+    {
+      "id": "English",
+      "collegName": "Kingster College",
+      "courseName": "English",
+      "rating": 5,
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPq650bsFQtjh_Wx4wABsttzxXYjgK5kBgfEb-kynbKaVFU2yYLq1_kum2jfNnEKbRdzc&usqp=CAU"
+    }
+  ]

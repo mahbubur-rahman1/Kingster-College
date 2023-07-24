@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.apply-bachgroun-image{
+  background-image: url('https://img.freepik.com/free-photo/male-entrepreneur-using-computer-while-working-office_637285-8680.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+ 
+}
