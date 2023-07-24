@@ -22,7 +22,7 @@ const CollegeAdmissionNews = () => {
                             </h4>
                         </div>
                     </div>
-                    <div className="col-span-2">
+                    <div className="col-span-2 ">
                         <div className="mb-5">
                             <h2 className="text-2xl mb-2 font-bold">
                                 College News & Updates
@@ -30,10 +30,10 @@ const CollegeAdmissionNews = () => {
                             <div className="h-1 bg-red-700"></div>
                         </div>
                         <div className="grid mx-auto md:grid-cols-2">
-                            <div className="grid   gap-4 md:grid-cols-4 ">
+                            <div className="grid lg:full shadow-lg  gap-4 grid-cols-4 ">
 
-                                <div className="col-span-1 ">
-                                    <img className="md:h-24 w-full shadow-lg rounded-lg" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzx8bxTPK5zu8qGn4Vezpb8563kJ29NkJr4Q&usqp=CAU" alt="" />
+                                <div className="lg:w-full ">
+                                    <img className="h-24 w-full shadow-lg rounded-lg" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzx8bxTPK5zu8qGn4Vezpb8563kJ29NkJr4Q&usqp=CAU" alt="" />
                                 </div>
                                 <div className="col-span-3">
                                     <div className="flex gap-4">
@@ -50,10 +50,10 @@ const CollegeAdmissionNews = () => {
                                     </h3>
                                 </div>
                             </div>
-                            <div className="grid  gap-4 md:grid-cols-4 ">
+                            <div className="grid lg:flex shadow-lg gap-4 grid-cols-4 ">
 
-                                <div className="col-span-1">
-                                    <img className="h-24 w-full shadow-lg rounded-lg" src="https://a6e8z9v6.stackpathcdn.com/kingster/highschool/wp-content/uploads/2018/08/shutterstock_218235004-150x150.jpg" alt="" />
+                                <div className="" >
+                                    <img className="h-24  w-full shadow-lg rounded-lg" src="https://a6e8z9v6.stackpathcdn.com/kingster/highschool/wp-content/uploads/2018/08/shutterstock_218235004-150x150.jpg" alt="" />
                                 </div>
                                 <div className="col-span-3">
                                     <div className="flex gap-4">
@@ -70,7 +70,7 @@ const CollegeAdmissionNews = () => {
                                     </h3>
                                 </div>
                             </div>
-                            <div className="grid  gap-4 md:grid-cols-4 mt-3">
+                            <div className="grid shadow-lg gap-4 grid-cols-4 mt-3">
 
                                 <div className="col-span-1">
                                     <img className="h-24 w-full shadow-lg rounded-lg" src="https://a6e8z9v6.stackpathcdn.com/kingster/highschool/wp-content/uploads/2016/06/shutterstock_361397258-150x150.jpg" alt="" />
@@ -90,7 +90,7 @@ const CollegeAdmissionNews = () => {
                                     </h3>
                                 </div>
                             </div>
-                            <div className="grid  gap-4 md:grid-cols-4 mt-3">
+                            <div className="grid shadow-lg gap-4 grid-cols-4 mt-3">
 
                                 <div className="col-span-1">
                                     <img className="h-24 w-full shadow-lg rounded-lg" src="https://a6e8z9v6.stackpathcdn.com/kingster/highschool/wp-content/uploads/2016/06/shutterstock_213333985-150x150.jpg" alt="" />
@@ -111,10 +111,10 @@ const CollegeAdmissionNews = () => {
                                     </h3>
                                 </div>
                             </div>
-                            <div className="grid  gap-4 md:grid-cols-4 mt-3">
+                            <div className="grid shadow-lg gap-4 grid-cols-4 mt-3">
 
                                 <div className="col-span-1">
-                                    <img className="h-24 w-full shadow-lg rounded-lg" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzx8bxTPK5zu8qGn4Vezpb8563kJ29NkJr4Q&usqp=CAU" alt="" />
+                                    <img className="h-24 w-full shadow-lg rounded-lg" src="https://a6e8z9v6.stackpathcdn.com/kingster/highschool/wp-content/uploads/2016/06/shutterstock_160526219-150x150.jpg" alt="" />
                                 </div>
                                 <div className="col-span-3">
                                     <div className="flex gap-4">
@@ -131,10 +131,10 @@ const CollegeAdmissionNews = () => {
                                     </h3>
                                 </div>
                             </div>
-                            <div className="grid  gap-4 md:grid-cols-4 mt-3">
+                            <div className="grid shadow-lg gap-4 grid-cols-4 mt-3">
 
                                 <div className="col-span-1">
-                                    <img className="h-24 w-full shadow-lg rounded-lg" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzx8bxTPK5zu8qGn4Vezpb8563kJ29NkJr4Q&usqp=CAU" alt="" />
+                                    <img className="h-24 w-full shadow-lg rounded-lg" src="https://a6e8z9v6.stackpathcdn.com/kingster/highschool/wp-content/uploads/2016/06/shutterstock_481869205-150x150.jpg" alt="" />
                                 </div>
                                 <div className="col-span-3">
                                     <div className="flex gap-4">
