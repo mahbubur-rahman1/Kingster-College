@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "name": "Biology",
+      "lavel": "3rd Grade",
+      "instrctor": "Jane Doe",
+      "credit": 3.000,
+      "picture": "https://previews.123rf.com/images/stokkete/stokkete1205/stokkete120500119/13583439-portrait-of-a-young-woman-college-student-or-teacher-in-front-of-a-blackboard.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Anatomy",
+      "lavel": "2rd Grade",
+      "instrctor": " Jane Doe",
+      "credit": 3.000,
+      "picture": "https://a6e8z9v6.stackpathcdn.com/kingster/highschool/wp-content/uploads/2019/06/shutterstock_1005896620-700x450.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Smith Roy",
+      "lavel": "3rd Grade",
+      "instrctor": "Smith Roy",
+      "credit": 3.000,
+      "picture": "https://a6e8z9v6.stackpathcdn.com/kingster/highschool/wp-content/uploads/2019/06/shutterstock_89254516-700x450.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Engineering",
+      "lavel": "3rd Grade",
+      "instrctor": "Smith Roy",
+      "credit": "2.000",
+      "picture": "https://a6e8z9v6.stackpathcdn.com/kingster/highschool/wp-content/uploads/2018/08/shutterstock_134777864-700x450.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Angele Smith",
+      "lavel": "3rd Grade",
+      "instrctor": "Shaiful",
+      "credit": 3.000,
+      "picture": "https://a6e8z9v6.stackpathcdn.com/kingster/highschool/wp-content/uploads/2018/08/personnel-5-700x450.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Physics",
+      "lavel": "4th Grade",
+      "instrctor": "Shamim",
+      "credit": "",
+      "picture": "https://a6e8z9v6.stackpathcdn.com/kingster/highschool/wp-content/uploads/2016/06/shutterstock_135948689-700x450.jpg"
+    }]
+    

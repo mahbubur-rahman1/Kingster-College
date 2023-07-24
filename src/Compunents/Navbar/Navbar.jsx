@@ -21,6 +21,9 @@ const Navbar = () => {
                     <div className="form-control">
                         <input type="text" placeholder="Search" className="input input-bordered w-24 md:w-auto" />
                     </div>
+                    <div className="">
+                        <Link to="/login"><button className="btn bg-blue-600 text-white font-semibold">Login</button></Link>
+                    </div>
                     <div className="dropdown dropdown-end">
                         <label tabIndex={0} className="btn btn-ghost lg:hidden btn-circle avatar">
                             <div className="w-10 rounded-full">

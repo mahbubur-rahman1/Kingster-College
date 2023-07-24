@@ -8,7 +8,7 @@ const Addmisson = () => {
     const [colleges, setColleges] = useState([])
    
     useEffect(() => {
-        fetch('college.json')
+        fetch('addmisson.json')
         .then(res => res.json())
         .then(data => setColleges(data))
     } , [])
