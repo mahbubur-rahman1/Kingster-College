@@ -15,7 +15,7 @@ const College = () => {
 
    
     return (
-        <div className="grid md:grid-cols-2 gap-5 shadow-lg rounded-lg">     
+        <div className="grid md:grid-cols-2 gap-2 shadow-lg rounded-lg">     
             {
                 college.map(college => <CollegeCart
                 key={college.id}
