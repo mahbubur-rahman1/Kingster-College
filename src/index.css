@@ -10,3 +10,11 @@
   height: 100vh;
  
 }
+.college-banner{
+  background: url('https://wallpaperaccess.com/full/1209519.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+

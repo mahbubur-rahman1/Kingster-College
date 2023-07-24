@@ -4,14 +4,15 @@ const Navbar = () => {
     const navOption = <>
         <Link to=""><li className="px-2 py-1 hover:bg-red-800 hover:text-white font-semibold">Home</li></Link>
         <Link to="/college"><li className="px-2 py-1 hover:bg-red-800 hover:text-white font-semibold">Colleges</li></Link>
-        <Link to=""><li className="px-2 py-1 hover:bg-red-800 hover:text-white font-semibold">Admission</li></Link>
+        <Link to="/admission"><li className="px-2 py-1 hover:bg-red-800 hover:text-white font-semibold">Admission</li></Link>
         <Link to=""><li className="px-2 py-1 hover:bg-red-800 hover:text-white font-semibold">My College</li></Link>
     </>
     return (
         <div className="">
             <div className="navbar bg-gray-200">
-                <div className="flex-1">
-                    <a className="btn btn-ghost normal-case text-xl">daisyUI</a>
+                <div className="flex-1 gap-3">
+                    <img className="h-16 rounded-3xl" src="https://cdn.sanity.io/images/kts928pd/production/c2fcbae1ac2dcdbf24af1e394b95cde0635cbc70-731x731.png" alt="" />
+                    <h3 className="text-2xl font-bold">Kingster College</h3>
                 </div>
                 <div className="flex-none gap-2">
                     <ul tabIndex={0} className="flex">

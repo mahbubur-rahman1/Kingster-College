@@ -1,27 +1,24 @@
-import { useEffect, useState } from "react";
-import CollegeCart from "./CollegeCart";
+import { Link } from "react-router-dom";
 
 
 const College = () => {
-    const [college, setCollege] = useState([])
-
-    useEffect(() => {
-        fetch('college.json')
-        .then(res => res.json())
-        .then(data => setCollege(data))
-    })
-
-    console.log(college)
-
-   
     return (
-        <div className="grid md:grid-cols-2 gap-2 shadow-lg rounded-lg">     
-            {
-                college.map(college => <CollegeCart
-                key={college.id}
-                college={college}
-                ></CollegeCart>)
-            }
+        <div>
+            <div className="">
+                <div className="">
+                    <div className="college-banner flex items-center ">
+                        <div className="bg-black h-64 max-w-screen-lg mx-auto px-5 py-7 bg-opacity-60 flex items-center">
+                            <div className="">
+                                <h1 className="text-7xl font-medium text-white">Kingster College</h1>
+                                <Link to="/college">
+
+                                </Link>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
         </div>
     );
 };
